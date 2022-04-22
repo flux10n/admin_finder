@@ -1,2 +1,4 @@
 #### admin finder php script
-- pass: r00ta
+```console
+password: r00ta
+```
